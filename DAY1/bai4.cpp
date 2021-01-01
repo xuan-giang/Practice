@@ -23,4 +23,19 @@ int main(){
     }else{
         cout << "NO";
     }
+    if(điều kiện 1){
+        câu lệnh khi điều kiện 1 đúng
+    }else if (điều kiện 2)
+    {
+        câu lệnh khi điều kiện 2 đúng
+    }else if (điều kiện 3)
+    {
+        câu lệnh khi điều kiện 3 đúng
+    }
+    ...
+    else{
+        câu lệnh khi các điều kiện trên sai
+    }
+    
+    
 }
