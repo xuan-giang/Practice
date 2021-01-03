@@ -83,7 +83,7 @@ float min(float *a, int n)
 bool isInvalid(float *a, int n)
 {
     int i = 0;
-    for (; i < n; i++)
+    for (; i < n - 1; i++)
     {
         if (a[i] < 1 || a[i] + a[i + 1] <= 5)
         {

@@ -1,2 +1,2 @@
-Mang vua nhap: 1.2 3.4 -9.1 4.4 6.5 
-Mang sau khi sap xep: 6.5 4.4 3.4 1.2 -9.1 
+Mang vua nhap: 20 12 14 32 4 
+Mang sau khi sap xep giam dan: 32 20 14 12 4 

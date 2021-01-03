@@ -47,6 +47,6 @@ int main()
     }while (m <= 0);
     
     cout << "Gia tri cua P = " << P(x,y) << endl;
-    cout << "Gia tri cua F = " << F(x,m) << endl;
+    cout << "Gia tri cua F = " << F(x+y,m) << endl;
     
 }
